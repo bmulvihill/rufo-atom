@@ -1,7 +1,7 @@
 {
   "name": "rufo-atom",
   "main": "./lib/rufo-atom",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Atom package for rufo (Ruby Formatter)",
   "keywords": [
   ],

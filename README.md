@@ -1,6 +1,6 @@
 # rufo-atom package
 
-Allows super fast formatting of ruby code via rufo gem.
+Fast automatic formatting of ruby code via [rufo](https://github.com/asterite/rufo) gem.
 
 #### Install rufo:
 
@@ -12,6 +12,8 @@ Allows super fast formatting of ruby code via rufo gem.
 
 #### Format file:
 
-`ctrl + opt + o`
+Go to Packages -> Rufo -> Format File
+
+Default key binding: `ctrl + opt + o`
 
 Currently under development
