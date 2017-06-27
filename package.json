@@ -1,10 +1,9 @@
 {
   "name": "rufo-atom",
   "main": "./lib/rufo-atom",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Atom package for rufo (Ruby Formatter)",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "rufo-atom:format"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
