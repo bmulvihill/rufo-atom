@@ -1,0 +1,22 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "rufo-atom",
+          "submenu": [
+            {
+              "label": "Format File",
+              "command": "rufo-atom:format"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
